@@ -1,2 +1,2 @@
 # My Web Server
-Skeleton code for a basic website
+Welcome to Alli's Awesome website!
