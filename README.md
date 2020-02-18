@@ -1,2 +1,2 @@
 # My Web Server
-Skeleton code for a basic website
+The purpose of this application is to install a keylogger and rootkit on a user's hardware.
