@@ -1,2 +1,2 @@
 # My Web Server
-Skeleton code for a basic website
+Kristen's totally awesome webserver for this lunch and learn.
